@@ -1,7 +1,5 @@
 ﻿<!DOCTYPE html>
 
-
-
 <html lang="en">
 <head>
   <meta charset="utf-8"/>
@@ -138,7 +136,7 @@ require('header.php');
               <hr style="width:600px">
             </div>
           </div>
-          <div class="row">
+          <!-- <div class="row">
                 <div class="row" style="padding-top: 10px">
                 <div class="col-xs-6 col-md-3">
                   <a href="http://geo.li.kmutt.ac.th/honors.php">
@@ -166,7 +164,7 @@ require('header.php');
                 </div>
               </div>  
         </div><!-- /container -->
-        
+         -->
         
       </section><!-- /section -->     
       <!-- End Content Section -->
@@ -204,7 +202,7 @@ require('header.php');
         <div class="col-sm-8">
           <div class="heading mb20 mt30-xs"><h4><span class="ion-beaker mr15"></span>รายงานผลการวัดระดับความสามารถ ทางคณิตศาสตร์และฟิสิกส์ ของนักศึกษาแรกเข้าระดับปริญญาตรี ประจำปีกาารศึกษา 2560</h4></div>
           <p>สำนักงานการศึกษาสำหรับผู้มีความสามารถพิเศษ (GEO) ภาควิชาคณิตศาสตร์ ภาควิชาฟิสิกส์ และภาควิชาเคมี คณะวิทยาศาสตร์ และสำนักงานพัฒนาการศึกษาและบริการ ร่วมกันจัดสอบวัดระดับความสามารถทางคณิตศาสตร์ ฟิสิกส์ และเคมี สำหรับนักศึกษาใหม่ระดับปริญญาตรี ประจำปีการศึกษา 2560 ในวันที่ 25 มิถุนายน 2560 โดยมีวัตถุประสงค์เพื่อวัดระดับความรู้พื้นฐานในวิชาคณิตศาสตร์ ฟิสิกส์ และเคมี และเพื่อวางแผนการจัดการศึกษาที่เหมาะสมสำหรับนักศึกษาที่มีศักยภาพในระดับที่ต่างกัน คัดเลือกนักศึกษาเข้าศึกษาในห้องเรียนสำหรับผู้มีความสามารถพิเศษ (Honors Class) ...</p>
-          <a href="http://geo.li.kmutt.ac.th/doc/PlacementTest2560.pdf">>> ดาวน์โหลดเอกสาร</a>
+          <a href="http://geo.li.kmutt.ac.th/doc/EDAXBX.pdf">>> ดาวน์โหลดเอกสาร</a>
         </div><!-- /column -->
     </div><!-- /row -->
     <!-- END Highlighted Item -->
